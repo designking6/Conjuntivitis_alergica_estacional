@@ -1,0 +1,2 @@
+
+Es un medicamento antialérgico que impide la liberación de [[histamina]] por parte de los [[mastocitos]], siendo causantes de una [[alergia]]. Funcionan mediante la estabilización de la membrana celular y bloqueando la entrada de calcio, previniendo la [[degranulación]] y los [[síntomas]] antes de que sucedan. [Referencia](https://www-sciencedirect-com.translate.goog/topics/neuroscience/mast-cell-stabilizer?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge) 

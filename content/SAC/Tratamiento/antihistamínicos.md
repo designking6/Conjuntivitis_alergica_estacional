@@ -1,0 +1,2 @@
+
+Sustancia que alivia los [[síntomas]], al impedir que la [[histamina]] se una el [[receptor h1]] del cuerpo. Suelen durar de 4 a 6 horas. [Referencia](https://medlineplus.gov/spanish/ency/patientinstructions/000549.htm) 

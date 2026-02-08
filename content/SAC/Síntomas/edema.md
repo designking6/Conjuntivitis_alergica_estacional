@@ -1,0 +1,2 @@
+
+Es la **acumulación de líquido** en el espacio intersticial, así como de las cavidades del organismo. [Referencia](https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/s%C3%ADntomas-de-las-enfermedades-cardiovasculares/edema?ruleredirectid=757) 

@@ -1,0 +1,2 @@
+
+Instrumento oftalmológico utilizado para la graduación subjetiva de la vista, permitiendo medir errores refractivos como miopía, hipermetropía y astigmatismo. Se usa en conjunto con la [[tabla optométrica]]. [Referencia](https://colegioopticosoptometristas.es/instrumental-optica-foroptero/) 
