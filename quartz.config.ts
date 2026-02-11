@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "designking6.github.io/Conjuntivitis_alergica_estacional",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "none",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -77,7 +77,10 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
+      Plugin.ContentPage({
+        readingTime: false,
+        showMetadata: false,
+      }),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
