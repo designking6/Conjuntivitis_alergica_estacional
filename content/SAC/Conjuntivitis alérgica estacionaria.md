@@ -11,3 +11,4 @@
 - [[patentes]]
 - [[estadísticas]]
 - [[pacientes]]
+- [[fisiopatología]]
