@@ -5,5 +5,5 @@ Usados para el diagnóstico están los:
 
 Para el tratamiento de la enfermedad son:
 	- [[frasco de colirio--]]
-	- [[compresas frías--]]
+	- [[compresas frías]]
 

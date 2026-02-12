@@ -5,10 +5,11 @@
 - [[síntomas]]
 - [[tratamiento]]
 - [[productos]]
-- [[especialistas]]
+- [[doctores]]
 - [[consecuencias]]
 - [[factores de riesgo]]
 - [[patentes]]
 - [[estadísticas]]
 - [[pacientes]]
 - [[fisiopatología]]
+
