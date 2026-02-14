@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Anuppuccin – acento azul (light theme) */
+:root[data-theme="light"] {
+  --ctp-accent: #1e66f5;
+  --ctp-primary: #1e66f5;
+}
+
+/* (opcional) acento azul también en dark */
+:root[data-theme="dark"] {
+  --ctp-accent: #89b4fa;
+  --ctp-primary: #89b4fa;
+}
