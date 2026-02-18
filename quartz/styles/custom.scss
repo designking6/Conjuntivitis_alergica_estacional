@@ -2,19 +2,25 @@
 
 // put your custom CSS here!
 
-/* Aumentar ancho del sidebar derecho (Graph View) */
-.right-sidebar {
-  width: 32rem !important;   /* default ~16rem */
-  max-width: 32rem !important;
+/* === Split layout: Graph arriba, contenido abajo === */
+
+main.content {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* ocupa toda la pantalla */
 }
 
-/* Aumentar tamaño del contenedor del graph */
-.graph {
-  height: 360px !important;  /* default ~180px */
+/* Graph View: mitad superior */
+main.content .graph {
+  flex: 0 0 50%;
+  max-height: 50%;
+  border-bottom: 1px solid var(--lightgray);
+  overflow: hidden;
 }
 
-/* Asegurar que el SVG use todo el espacio */
-.graph svg {
-  width: 100% !important;
-  height: 100% !important;
+/* Contenido de la nota: mitad inferior */
+main.content .content-body {
+  flex: 1;
+  overflow-y: auto;
+  padding-top: 1rem;
 }
