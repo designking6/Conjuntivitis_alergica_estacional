@@ -1,26 +1,3 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-
-/* === Split layout: Graph arriba, contenido abajo === */
-
-main.content {
-  display: flex;
-  flex-direction: column;
-  height: 100vh; /* ocupa toda la pantalla */
-}
-
-/* Graph View: mitad superior */
-main.content .graph {
-  flex: 0 0 70%;
-  max-height: 70%;
-  border-bottom: 1px solid var(--lightgray);
-  overflow: hidden;
-}
-
-/* Contenido de la nota: mitad inferior */
-main.content .content-body {
-  flex: 1;
-  overflow-y: auto;
-  padding-top: 1rem;
-}
+// put your custom CSS here!}
