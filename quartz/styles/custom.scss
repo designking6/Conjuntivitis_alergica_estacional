@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Aumentar ancho del sidebar derecho (Graph View) */
+.right-sidebar {
+  width: 22rem !important;   /* default ~16rem */
+  max-width: 22rem !important;
+}
+
+/* Aumentar tamaño del contenedor del graph */
+.graph {
+  height: 300px !important;  /* default ~180px */
+}
+
+/* Asegurar que el SVG use todo el espacio */
+.graph svg {
+  width: 100% !important;
+  height: 100% !important;
+}
