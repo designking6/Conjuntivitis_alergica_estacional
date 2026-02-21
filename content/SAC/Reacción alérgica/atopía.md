@@ -1,0 +1,2 @@
+
+Respuesta inmunitaria exagerada hacia un agente externo ([[alérgeno]]) mediada por la [[IgE]]; todos los trastornos atópicos son reacciones de hipersensibilidad del tipo 1. [Referencia](https://www.msdmanuals.com/es/professional/inmunolog%C3%ADa-y-trastornos-al%C3%A9rgicos/enfermedades-al%C3%A9rgicas-autoinmunitarias-y-otros-trastornos-por-hipersensibilidad/generalidades-sobre-los-trastornos-al%C3%A9rgicos-y-at%C3%B3picos#Clasificaci%C3%B3n-de-las-reacciones-de-hipersensibilidad_v994886_es) 
