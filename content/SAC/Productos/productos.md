@@ -4,6 +4,7 @@ Usados para el diagnóstico están los:
 	- hisopo estéril
 
 Para el tratamiento de la enfermedad son:
-	- [[frasco de colirio--]]
+	- [[frasco de colirio]]
 	- [[compresas frías]]
+
 

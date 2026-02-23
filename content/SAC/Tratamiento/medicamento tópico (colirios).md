@@ -1,5 +1,5 @@
 
-Suelen ser gotas contenidas en un [[frasco de colirio--]]. En el tratamiento suelen haber: 
+Suelen ser gotas contenidas en un [[frasco de colirio]]. En el tratamiento suelen haber: 
 	-[[antihistamínicos]]
 	-[[antiinflamatorios]]
 	-[[estabilizadores de los mastocitos]]
