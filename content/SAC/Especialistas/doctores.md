@@ -1,6 +1,5 @@
 
-Los médicos especialistas encargados en tratar esta afección son los:
+Los médicos  encargados en tratar esta afección son los:
 
-- [[alergólogos]] 
 - [[oftalmólogos]]
 - [[médico general]]

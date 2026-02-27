@@ -1,0 +1,4 @@
+
+#factor_de_riesgo
+
+Hace referencia a la herencia familiar, una asociación entre la [[atopía]] y  locus de HLA (human leukocyte antigen) específicos y polimorfismos de genes de la cadena beta del receptor de afinidad alta de la [[IgE]], cadena alfa del receptor de interleucina (IL)-4, IL-4, IL-13, CD14, dipeptidil-peptidasa 10 (DPP10), una desintegrina y el dominio 33 de la metaloproteasa (ADAM33). [Referencia](https://www.msdmanuals.com/es/professional/inmunolog%C3%ADa-y-trastornos-al%C3%A9rgicos/enfermedades-al%C3%A9rgicas-autoinmunitarias-y-otros-trastornos-por-hipersensibilidad/generalidades-sobre-los-trastornos-al%C3%A9rgicos-y-at%C3%B3picos#Clasificaci%C3%B3n-de-las-reacciones-de-hipersensibilidad_v994886_es)   

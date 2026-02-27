@@ -1,0 +1,2 @@
+
+Se encuentran los [[factores genéticos]], [[factores ambientales]] y los [[factores específicos del lugar anatómico]]. [Referencia](https://www.msdmanuals.com/es/professional/inmunolog%C3%ADa-y-trastornos-al%C3%A9rgicos/enfermedades-al%C3%A9rgicas-autoinmunitarias-y-otros-trastornos-por-hipersensibilidad/generalidades-sobre-los-trastornos-al%C3%A9rgicos-y-at%C3%B3picos#Etiolog%C3%ADa_v26620050_es) 

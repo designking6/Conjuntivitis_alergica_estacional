@@ -6,7 +6,7 @@
 - [[tratamiento]]
 - [[productos]]
 - [[doctores]]
-- [[consecuencias]]
+- [[complicaciones]]
 - [[factores de riesgo]]
 - [[patentes]]
 - [[estadísticas]]
