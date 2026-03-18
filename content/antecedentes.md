@@ -8,7 +8,9 @@
 |    ![[MAP_eyenovia.png]]    | Nombre: Microdose Array Print (M.A.P.) por Eyenovia <br><br>Material: carcasa de ABS, boquilla microperforada<br><br>Color: Blanco con detalles en celeste<br><br>Propósito: dosificar microgotas sin realizar hiperextensión<br><br>Forma de uso: Se enciende el dispositivo, se direcciona una luz azul al ojo para después accionar el botón que dosificará el medicamento<br><br>Personalización: No<br><br>Mantenimiento: No se especifica<br><br>Costo: aprox 420 USD (7,560 pesos mxn)<br><br>Conclusión: *Al depender de cartuchos precargados de medicamento hace que la compatibilidad sea limitada, ya que es indispensable que el laboratorio rellene el cartucho con el medicamento. No está disponible para la venta. Mirar hacia la luz podría percibirse incómodo ya que los pacientes con SAC tienen fotosensibilidad. Al depender de microcomponentes electrónicos aumenta la posibilidad de fallo y no poder repararlo* |
 |       ![[mudrop.png]]       | Nombre: mu-drop<br><br>Material: plástico de grado médico<br><br>Color: NA<br><br>Propósito: depositar la microgota en el ojo<br><br>Forma de uso: se abre el empaque con varios mu-drops, se toma uno  y posteriormente la persona debe de colocarse la gota en el ojo manualmente<br><br>Personalización: NA<br><br>Mantenimiento: NA<br><br>Costo: Se vende mediante un servicio médico que suele oscilar entre los 3,000 y 6,000 pesos<br><br>Conclusión: *Son desechables. El tener una punta en gris muy fina puede percibirse como agresivo por las personas. Existe un riesgo de lastimarse el ojo ya que no hay una guía para evitar el contacto con el ojo. Por su tamaño, la probabilidad de que se caiga de las manos es alta, haciendo que se desperdicie medicamento*                                                                                                                                                        |
 
-***2) PROCEDIMIENTOS CONVENCIONALES***
+--------------------------------------------------------------------------
+
+***1.1) PROCEDIMIENTOS CONVENCIONALES***
 
 | Procedimiento convencional           | Características                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,7 +18,9 @@
 | ![[loratadina.png]]                  | Tipo: Consumo de medicamento vía oral (Loratadina)<br><br>Propósito: Bloquear efectos de la histamina<br><br>Forma de uso: Consumir la dosis especifica en la caja cuando se presenten síntomas<br><br>Costo: Versión genérica suele ser de 30 pesos mxn <br><br>Conclusión: *Complementario al tratamiento tópico. produce somnolencia. No actúa directamente al ojo. Bajo costo y alto riesgo de automedicación* |
 | ![[rascarse_ojo.png]] | Tipo: Rascarse los ojos<br><br>Propósito: Eliminar la sensación de comezón<br><br>Uso: Frotarse con los dedos la zona palpebral hasta no sentir comezón<br><br>Conclusión: *Al ejecutar esta acción se corre un alto riesgo de infección ya que las manos suelen estar sucias, también se ve reducida la agudeza visual. Acción menos efectiva y con más efectos negativos colaterales*                            |
 
-***3) PROPIEDAD INTELECTUAL*** 
+--------------------------------------------------------------------------
+
+***2) PROPIEDAD INTELECTUAL*** 
 
 **PATENTES**
 
