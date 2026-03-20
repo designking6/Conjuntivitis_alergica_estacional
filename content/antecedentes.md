@@ -24,7 +24,15 @@
 
 **PATENTES**
 
+| Patente | Características                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------- |
+|         | Nombre: <br><br>Material: <br><br>Link:<br><br>Propósito: <br><br>Forma de uso: <br><br>Conclusión: |
+|         | Nombre: <br><br>Material: <br><br>Link:<br><br>Propósito: <br><br>Forma de uso: <br><br>Conclusión: |
+|         | Nombre: <br><br>Material: <br><br>Link:<br><br>Propósito: <br><br>Forma de uso: <br><br>Conclusión: |
+|         | Nombre: <br><br>Material: <br><br>Link:<br><br>Propósito: <br><br>Forma de uso: <br><br>Conclusión: |
+|         | Nombre: <br><br>Material: <br><br>Link:<br><br>Propósito: <br><br>Forma de uso: <br><br>Conclusión: |
 
+--------------------------------------------------------------------------
 
 **MODELOS DE UTILIDAD**
 
