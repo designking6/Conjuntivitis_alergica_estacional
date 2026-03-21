@@ -33,7 +33,32 @@
 		{"id":"29576ff016dfdb67","type":"file","file":"Imágenes de boards/vision_borrosa.png","x":-270,"y":200,"width":410,"height":187},
 		{"id":"3278c98d85063d4b","type":"file","file":"Imágenes de boards/rascado.png","x":176,"y":204,"width":189,"height":183},
 		{"id":"18ea4ef88d30263c","type":"file","file":"Imágenes de boards/frustración.png","x":40,"y":-80,"width":136,"height":210},
-		{"id":"299a7f8b310bccab","type":"file","file":"Imágenes de boards/estres.png","x":-270,"y":-80,"width":289,"height":205}
+		{"id":"299a7f8b310bccab","type":"file","file":"Imágenes de boards/estres.png","x":-270,"y":-80,"width":289,"height":205},
+		{
+			"id":"5aaca628505da7c2",
+			"type":"text",
+			"text":"MOODBOARD",
+			"styleAttributes":{
+				"shape":"parallelogram",
+				"border":null,
+				"textAlign":"center"
+			},
+			"x":460,
+			"y":-680,
+			"width":636,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4aef4e7f09bbc3a1",
+			"type":"text",
+			"text":"*Aplicación cómoda y precisa*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":460,
+			"y":-600,
+			"width":350,
+			"height":60
+		}
 	],
 	"edges":[],
 	"metadata":{
