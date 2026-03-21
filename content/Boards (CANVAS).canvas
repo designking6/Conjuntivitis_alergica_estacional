@@ -1,0 +1,44 @@
+{
+	"nodes":[
+		{
+			"id":"ad8dae0f3bd08150",
+			"type":"text",
+			"text":"*Aplicación incómoda e imprecisa*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-270,
+			"y":-600,
+			"width":350,
+			"height":60
+		},
+		{
+			"id":"335f64dbb7dbf42d",
+			"type":"text",
+			"text":"BOARD DE USUARIO",
+			"styleAttributes":{
+				"shape":"parallelogram",
+				"border":null,
+				"textAlign":"center"
+			},
+			"x":-270,
+			"y":-680,
+			"width":636,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"66ef2af6dc6c2fef","type":"file","file":"Imágenes de boards/usuario.png","x":-270,"y":-514,"width":350,"height":159},
+		{"id":"fe34d46ad48ae8a0","type":"file","file":"Imágenes de boards/lugar_polvo.png","x":-270,"y":-332,"width":350,"height":185},
+		{"id":"2b57434617e3bc40","type":"file","file":"Imágenes de boards/gota.png","x":100,"y":-514,"width":266,"height":215},
+		{"id":"c0eeeaee706f4af0","type":"file","file":"Imágenes de boards/uso.png","x":100,"y":-267,"width":266,"height":157},
+		{"id":"c856c3782fcc0d3a","type":"file","file":"Imágenes de boards/rechazo.png","x":200,"y":-80,"width":166,"height":249},
+		{"id":"29576ff016dfdb67","type":"file","file":"Imágenes de boards/vision_borrosa.png","x":-270,"y":200,"width":410,"height":187},
+		{"id":"3278c98d85063d4b","type":"file","file":"Imágenes de boards/rascado.png","x":176,"y":204,"width":189,"height":183},
+		{"id":"18ea4ef88d30263c","type":"file","file":"Imágenes de boards/frustración.png","x":40,"y":-80,"width":136,"height":210},
+		{"id":"299a7f8b310bccab","type":"file","file":"Imágenes de boards/estres.png","x":-270,"y":-80,"width":289,"height":205}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"abd8de28f5d1f2ca"
+	}
+}
