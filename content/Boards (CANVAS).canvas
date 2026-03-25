@@ -1,39 +1,55 @@
 {
 	"nodes":[
+		{"id":"b324aac18d2e58b9","type":"group","x":460,"y":400,"width":476,"height":300,"color":"4","label":"Comodidad"},
+		{"id":"e734b2d05890bf49","type":"group","x":460,"y":780,"width":440,"height":320,"color":"4","label":"Precisión"},
+		{"id":"ab0b8b698a2c63ac","type":"group","x":440,"y":-520,"width":343,"height":320,"color":"4","label":"Tranquilidad"},
+		{"id":"02bdc98f50216729","type":"group","x":980,"y":320,"width":300,"height":320,"color":"4","label":"Gozo"},
+		{"id":"34a0a2707c444556","type":"group","x":936,"y":780,"width":360,"height":240,"color":"4","label":"Salud ocular"},
+		{"id":"7bba66df0c7717cc","type":"group","x":840,"y":-540,"width":270,"height":309,"color":"4","label":"Logro"},
+		{"id":"4a62614a81889ac5","type":"file","file":"Imágenes de boards/Pasted image 20260324132254.png","x":-450,"y":-6880,"width":1260,"height":945},
+		{"id":"f81f84224a77b8b3","type":"file","file":"Imágenes de boards/Pasted image 20260324132316.png","x":910,"y":-6880,"width":1240,"height":930},
+		{"id":"48ebe309c8262217","type":"file","file":"Imágenes de boards/Pasted image 20260324132333.png","x":2310,"y":-6880,"width":1240,"height":930},
+		{"id":"aa840b5d2543dafb","type":"file","file":"Imágenes de boards/Pasted image 20260321131604.png","x":460,"y":-500,"width":300,"height":289},
 		{
-			"id":"ad8dae0f3bd08150",
+			"id":"4aef4e7f09bbc3a1",
 			"type":"text",
-			"text":"*Aplicación incómoda e imprecisa*",
+			"text":"*Aplicación cómoda y precisa*",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-270,
-			"y":-600,
+			"x":460,
+			"y":-650,
 			"width":350,
 			"height":60
 		},
+		{"id":"137e91ea9af1e32f","type":"file","file":"Imágenes de boards/Pasted image 20260321131819.png","x":850,"y":-520,"width":236,"height":278},
+		{"id":"beb7626e2c960fcb","type":"file","file":"Imágenes de boards/Pasted image 20260321134019.png","x":1004,"y":340,"width":256,"height":276},
+		{"id":"6acfd21575ae1b20","type":"file","file":"Imágenes de boards/Pasted image 20260321132048.png","x":476,"y":445,"width":444,"height":222},
+		{"id":"cbd5a398a1fdbf83","type":"file","file":"Imágenes de boards/Pasted image 20260321132542.png","x":476,"y":800,"width":404,"height":270},
+		{"id":"c8b9e926c168a530","type":"file","file":"Imágenes de boards/Pasted image 20260321134724.png","x":952,"y":819,"width":321,"height":186},
 		{
-			"id":"335f64dbb7dbf42d",
+			"id":"8066d9558aafd1c1",
 			"type":"text",
-			"text":"BOARD DE USUARIO",
+			"text":"STYLEBOARD",
 			"styleAttributes":{
 				"shape":"parallelogram",
 				"border":null,
 				"textAlign":"center"
 			},
-			"x":-270,
-			"y":-680,
+			"x":1400,
+			"y":-740,
 			"width":636,
 			"height":60,
-			"color":"1"
+			"color":"2"
 		},
-		{"id":"66ef2af6dc6c2fef","type":"file","file":"Imágenes de boards/usuario.png","x":-270,"y":-514,"width":350,"height":159},
-		{"id":"fe34d46ad48ae8a0","type":"file","file":"Imágenes de boards/lugar_polvo.png","x":-270,"y":-332,"width":350,"height":185},
-		{"id":"2b57434617e3bc40","type":"file","file":"Imágenes de boards/gota.png","x":100,"y":-514,"width":266,"height":215},
-		{"id":"c0eeeaee706f4af0","type":"file","file":"Imágenes de boards/uso.png","x":100,"y":-267,"width":266,"height":157},
-		{"id":"c856c3782fcc0d3a","type":"file","file":"Imágenes de boards/rechazo.png","x":200,"y":-80,"width":166,"height":249},
-		{"id":"29576ff016dfdb67","type":"file","file":"Imágenes de boards/vision_borrosa.png","x":-270,"y":200,"width":410,"height":187},
-		{"id":"3278c98d85063d4b","type":"file","file":"Imágenes de boards/rascado.png","x":176,"y":204,"width":189,"height":183},
-		{"id":"18ea4ef88d30263c","type":"file","file":"Imágenes de boards/frustración.png","x":40,"y":-80,"width":136,"height":210},
-		{"id":"299a7f8b310bccab","type":"file","file":"Imágenes de boards/estres.png","x":-270,"y":-80,"width":289,"height":205},
+		{
+			"id":"703ee85842f49315",
+			"type":"text",
+			"text":"*Aplicación cómoda y precisa*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1400,
+			"y":-650,
+			"width":350,
+			"height":60
+		},
 		{
 			"id":"5aaca628505da7c2",
 			"type":"text",
@@ -44,21 +60,39 @@
 				"textAlign":"center"
 			},
 			"x":460,
-			"y":-680,
+			"y":-740,
 			"width":636,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"4aef4e7f09bbc3a1",
+			"id":"cffc9048b1af86ed",
 			"type":"text",
-			"text":"*Aplicación cómoda y precisa*",
-			"styleAttributes":{"textAlign":"center"},
-			"x":460,
-			"y":-600,
+			"text":"BOARD DE USUARIO",
+			"styleAttributes":{
+				"shape":"pill",
+				"border":null,
+				"textAlign":"center"
+			},
+			"x":-300,
+			"y":-2080,
 			"width":350,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"d22cc5f20cc76143","type":"file","file":"Imágenes de boards/usuario.png","x":-300,"y":-1900,"width":400,"height":240},
+		{
+			"id":"ad82dd1e8d37f2d4",
+			"type":"text",
+			"text":"*Aplicación incómoda e imprecisa*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-300,
+			"y":-2000,
+			"width":290,
 			"height":60
-		}
+		},
+		{"id":"93cd7641f278f34a","type":"file","file":"Imágenes de boards/gotero.png","x":-300,"y":-1620,"width":200,"height":316},
+		{"id":"b72474b1c981e564","type":"file","file":"Imágenes de boards/casa.png","x":120,"y":-1927,"width":200,"height":267}
 	],
 	"edges":[],
 	"metadata":{

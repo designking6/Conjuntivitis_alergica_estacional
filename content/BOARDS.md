@@ -1,5 +1,4 @@
 
-![[Board de Usuario.png]]       
 
 
 
