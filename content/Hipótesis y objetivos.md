@@ -1,17 +1,23 @@
 ***Hipótesis***
 
-El diseño de un microgotero que dosifique una microgota de entre 10 y 20 µL y la direccione en un ángulo de 180° a 225° permitirá evitar la hiperextensión del cuello y mejorar la deposición de la gota en el saco conjuntival durante el tratamiento de la conjuntivitis alérgica estacional.
+Dosificar una microgota de entre 10 y 20 µL mediante un sistema de cámara de depósito con expulsión por desplazamiento de un émbolo, y que la direccione mediante una boquilla orientada hacia el ojo y una estructura de posicionamiento, permitirá depositar la microgota sin requerir la hiperextensión del cuello durante la aplicación del tratamiento tópico.
+
 
 ***Objetivos***
 
 *Objetivo General*
 
-Diseñar un microgotero direccionador de medicamento tópico, mediante la dosificación controlada de microgotas de entre 10 y 20 µL y su direccionamiento en un ángulo de 180° a 225°, para evitar la hiperextensión del cuello y asegurar la correcta deposición de la gota en el saco conjuntival durante el tratamiento de la conjuntivitis alérgica estacional
+Diseñar un dispositivo direccionador de microgotas de medicamento tópico, mediante un sistema de dosificación por desplazamiento de émbolo y una boquilla alineada con el ojo, para permitir la deposición del medicamento sin requerir la hiperextensión del cuello durante su aplicación.
 
 *Objetivos Específicos*
 
-- Analizar productos existentes que dosifiquen microgotas, mediante la revisión de dispositivos comerciales y soluciones tecnológicas, para identificar principios de funcionamiento aplicables al desarrollo del microgotero.
-- Seleccionar y aplicar mecanismos de separación del párpado inferior, mediante el análisis de soluciones funcionales, para facilitar la correcta deposición de la microgota en el saco conjuntival.
-- Investigar y emplear mecanismos de direccionamiento de flujo, mediante el análisis de principios físicos y soluciones de conducción de líquidos, para dirigir la microgota sin requerir la hiperextensión del cuello.
-- Evaluar el desempeño del dispositivo, mediante pruebas de uso y verificación de la deposición de la microgota, para comprobar la reducción de la hiperextensión del cuello y la precisión en la aplicación del medicamento.
+- Analizar el proceso actual de aplicación de colirios, mediante la identificación de posturas, trayectorias de la gota y errores de uso, para determinar los factores que afectan la correcta deposición del medicamento.
+- Determinar la distancia de recorrido del émbolo, mediante pruebas experimentales en un sistema de referencia tipo jeringa de insulina de 1ml, para dosificar una microgota entre 8 a 12  µL.
+- Seleccionar y especificar los mecanismos y componentes necesarios para controlar el recorrido del émbolo, mediante la comparación y evaluación de su viabilidad, costo y funcionamiento, para garantizar la dosificación precisa del volumen de la microgota.
+- Determinar la viabilidad de aplicar el medicamento con el dispositivo en una orientación horizontal respecto al rostro, mediante pruebas de expulsión y trayectoria de la microgota, para permitir la aplicación sin requerir la hiperextensión del cuello.
+- Seleccionar y especificar los mecanismos y componentes que permitan la alineación del dispositivo en una configuración de uso horizontal respecto al rostro, mediante la comparación, evaluación de su viabilidad, costo y funcionamiento para direccionar la microgota y eliminar la hiperextensión de cuello.
 
+
+***Pregunta de investigación***
+
+¿Cómo diseñar un dispositivo que dosifique y direccione una microgota de medicamento tópico hacia el ojo, de manera que permita su aplicación en una posición horizontal respecto al rostro sin requerir la hiperextensión del cuello?
