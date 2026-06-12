@@ -1,3 +1,4 @@
-![[Secuencia de uso.png]]![[partes.png]]
+![[Secuencia de uso.png]]
+![[partes.png]]
 
 
