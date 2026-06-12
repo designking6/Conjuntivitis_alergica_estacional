@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"cd419614285ef4de","type":"group","x":1880,"y":-1280,"width":498,"height":220,"color":"3","label":"mecanismos"},
 		{
 			"id":"cffc9048b1af86ed",
 			"type":"text",
@@ -36,18 +35,12 @@
 		{"id":"638fc94d029b1623","type":"file","file":"Imágenes/Imágenes de boards/consecuencia 1.png","x":205,"y":-1094,"width":260,"height":180},
 		{"id":"7882ba0e33affe28","type":"file","file":"Imágenes/Imágenes de boards/ansiedad.png","x":220,"y":-1340,"width":230,"height":206},
 		{"id":"cbd5a398a1fdbf83","type":"file","file":"Imágenes/Imágenes de boards/precisión.png","x":655,"y":-1100,"width":359,"height":240},
-		{"id":"906f3e940c28e38f","type":"file","file":"Imágenes/Imágenes de boards/punta plastica.png","x":2393,"y":-1380,"width":175,"height":309},
-		{"id":"3b7b31533d19cf8d","type":"file","file":"Imágenes/Imágenes de boards/indicador.png","x":2613,"y":-1493,"width":67,"height":498},
-		{"id":"9742378f531d503b","type":"file","file":"Imágenes/Imágenes de boards/blanco.png","x":1660,"y":-1940,"width":120,"height":185},
 		{"id":"6920db1d81820596","type":"file","file":"Imágenes/Imágenes de boards/modular.png","x":1787,"y":-1679,"width":126,"height":287},
-		{"id":"292357a61928ff58","type":"file","file":"Imágenes/Imágenes de boards/affordance soporte para ojos.png","x":1818,"y":-1940,"width":400,"height":174},
-		{"id":"1f925b0a366c7d31","type":"file","file":"Imágenes/Imágenes de boards/resorte.png","x":1898,"y":-1244,"width":180,"height":150},
+		{"id":"6acfd21575ae1b20","type":"file","file":"Imágenes/Imágenes de boards/comodidad.png","x":640,"y":-1620,"width":320,"height":160},
+		{"id":"faa1d03b5dbb2f18","type":"file","file":"Imágenes/Imágenes de boards/control.png","x":655,"y":-1400,"width":260,"height":260},
+		{"id":"beb7626e2c960fcb","type":"file","file":"Imágenes/Imágenes de boards/gozo.png","x":980,"y":-1637,"width":160,"height":172},
+		{"id":"24af3341f2e28da0","type":"file","file":"Imágenes/Imágenes de boards/autonomía.png","x":960,"y":-1400,"width":280,"height":186},
 		{"id":"1b06bc2e81ae4367","type":"file","file":"Imágenes/Imágenes de boards/dimensiones.png","x":1979,"y":-1679,"width":260,"height":260},
-		{"id":"22f8ce4bd0a8077d","type":"file","file":"Imágenes/Imágenes de boards/affordance para cerrar.png","x":2280,"y":-1940,"width":400,"height":400},
-		{"id":"40c6fc6c9a3d9ed4","type":"file","file":"Imágenes/Imágenes de boards/micro.png","x":2260,"y":-1210,"width":80,"height":60},
-		{"id":"44dce47890f037ab","type":"file","file":"Imágenes/Imágenes de boards/botón.png","x":2109,"y":-1213,"width":138,"height":119},
-		{"id":"68115c3cb173dae7","type":"file","file":"Imágenes/Imágenes de boards/textura tactil lisa.png","x":1540,"y":-1071,"width":142,"height":288},
-		{"id":"237d61523105e2b2","type":"file","file":"Imágenes/Imágenes de boards/textura visual mate.png","x":1700,"y":-1016,"width":160,"height":233},
 		{
 			"id":"27cd5208211eb65c",
 			"type":"text",
@@ -63,6 +56,9 @@
 			"height":60,
 			"color":"4"
 		},
+		{"id":"f0c913534aea6061","type":"file","file":"Imágenes/Imágenes de boards/forma simple.png","x":1518,"y":-1679,"width":220,"height":214},
+		{"id":"9742378f531d503b","type":"file","file":"Imágenes/Imágenes de boards/blanco.png","x":1660,"y":-1940,"width":120,"height":185},
+		{"id":"292357a61928ff58","type":"file","file":"Imágenes/Imágenes de boards/affordance soporte para ojos.png","x":1818,"y":-1940,"width":400,"height":174},
 		{
 			"id":"9dded4878db54633",
 			"type":"text",
@@ -74,13 +70,7 @@
 			"height":60
 		},
 		{"id":"adc581eb42036775","type":"file","file":"Imágenes/Imágenes de boards/calma.png","x":640,"y":-1880,"width":220,"height":205},
-		{"id":"6acfd21575ae1b20","type":"file","file":"Imágenes/Imágenes de boards/comodidad.png","x":640,"y":-1620,"width":320,"height":160},
 		{"id":"137e91ea9af1e32f","type":"file","file":"Imágenes/Imágenes de boards/Logro.png","x":901,"y":-1880,"width":158,"height":186},
-		{"id":"faa1d03b5dbb2f18","type":"file","file":"Imágenes/Imágenes de boards/control.png","x":655,"y":-1400,"width":260,"height":260},
-		{"id":"beb7626e2c960fcb","type":"file","file":"Imágenes/Imágenes de boards/gozo.png","x":980,"y":-1637,"width":160,"height":172},
-		{"id":"24af3341f2e28da0","type":"file","file":"Imágenes/Imágenes de boards/autonomía.png","x":960,"y":-1400,"width":280,"height":186},
-		{"id":"f0c913534aea6061","type":"file","file":"Imágenes/Imágenes de boards/forma simple.png","x":1518,"y":-1679,"width":220,"height":214},
-		{"id":"c36345beea3a1cfc","type":"file","file":"Imágenes/Imágenes de boards/simetria.png","x":1524,"y":-1419,"width":242,"height":303},
 		{
 			"id":"3b251d51021fef01",
 			"type":"text",
@@ -96,7 +86,10 @@
 			"height":60,
 			"color":"3"
 		},
-		{"id":"a5c1eb92788af1e0","type":"file","file":"Imágenes/Imágenes de boards/azul.png","x":1518,"y":-1940,"width":127,"height":185}
+		{"id":"a5c1eb92788af1e0","type":"file","file":"Imágenes/Imágenes de boards/azul.png","x":1518,"y":-1940,"width":127,"height":185},
+		{"id":"68115c3cb173dae7","type":"file","file":"Imágenes/Imágenes de boards/textura tactil lisa.png","x":1540,"y":-1358,"width":142,"height":288},
+		{"id":"237d61523105e2b2","type":"file","file":"Imágenes/Imágenes de boards/textura visual mate.png","x":1700,"y":-1303,"width":160,"height":233},
+		{"id":"906f3e940c28e38f","type":"file","file":"Imágenes/Imágenes de boards/punta plastica.png","x":1934,"y":-1358,"width":175,"height":309}
 	],
 	"edges":[],
 	"metadata":{
