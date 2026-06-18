@@ -1,7 +1,7 @@
 ![[Secuencia de uso.png]]
 
+![[partes.png]]
 
-![[Partes.png|697]]
 
 ![[Gotero_2.9.png]]
 
