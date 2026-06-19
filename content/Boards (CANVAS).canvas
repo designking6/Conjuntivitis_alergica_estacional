@@ -58,7 +58,6 @@
 		},
 		{"id":"f0c913534aea6061","type":"file","file":"Imágenes/Imágenes de boards/forma simple.png","x":1518,"y":-1679,"width":220,"height":214},
 		{"id":"9742378f531d503b","type":"file","file":"Imágenes/Imágenes de boards/blanco.png","x":1660,"y":-1940,"width":120,"height":185},
-		{"id":"292357a61928ff58","type":"file","file":"Imágenes/Imágenes de boards/affordance soporte para ojos.png","x":1818,"y":-1940,"width":400,"height":174},
 		{
 			"id":"9dded4878db54633",
 			"type":"text",
@@ -89,7 +88,9 @@
 		{"id":"a5c1eb92788af1e0","type":"file","file":"Imágenes/Imágenes de boards/azul.png","x":1518,"y":-1940,"width":127,"height":185},
 		{"id":"68115c3cb173dae7","type":"file","file":"Imágenes/Imágenes de boards/textura tactil lisa.png","x":1540,"y":-1358,"width":142,"height":288},
 		{"id":"237d61523105e2b2","type":"file","file":"Imágenes/Imágenes de boards/textura visual mate.png","x":1700,"y":-1303,"width":160,"height":233},
-		{"id":"906f3e940c28e38f","type":"file","file":"Imágenes/Imágenes de boards/punta plastica.png","x":1934,"y":-1358,"width":175,"height":309}
+		{"id":"906f3e940c28e38f","type":"file","file":"Imágenes/Imágenes de boards/punta plastica.png","x":1934,"y":-1358,"width":175,"height":309},
+		{"id":"05e9e973a1e5a789","type":"file","file":"Imágenes/Imágenes de boards/bulbo.png","x":1834,"y":-1922,"width":200,"height":149},
+		{"id":"06181d2bf2e6bfff","type":"file","file":"Imágenes/Imágenes de boards/enchinador.png","x":2239,"y":-1203,"width":291,"height":130}
 	],
 	"edges":[],
 	"metadata":{

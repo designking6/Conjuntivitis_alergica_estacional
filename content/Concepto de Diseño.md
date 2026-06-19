@@ -1,3 +1,0 @@
-***Aplicación sencilla y precisa***
-
-
